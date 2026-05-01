@@ -79,6 +79,52 @@ body {
     line-height: 1.5;
 }
 
+header {
+    text-align: center;
+    margin-bottom: 2rem;
+    background-color: var(--midnight-blue);
+}
+
+header img {
+    width: 45%;
+    height: auto;
+    margin-top: 1rem;
+}
+
+header h1 {
+    color: var(--linen);
+    font-size: 3.5rem;
+    font-weight: bold;
+    padding: 0.5rem;
+} 
+
+header p {
+    color: var(--linen);
+    font-size: 1.05rem;
+    font-style: italic;
+    margin-bottom: 1.5rem;
+}
+
+header nav {
+    background-color: var(--champagne-gold);
+    padding: 0.5rem 0;
+    
+}
+
+header nav ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+}
+
+header nav a {
+    color: var(--dark-charcoal);
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.30rem;
+    font-weight: bold;
+}
 
 
 
