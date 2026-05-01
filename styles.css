@@ -74,7 +74,7 @@ body {
     font-family: var(--main-font);
     background-color: var(--linen);
     color: var(--dark-charcoal);
-    max-width: 450px;
+    width: 450px;
     margin: 0 auto;
     line-height: 1.5;
 }
@@ -267,5 +267,8 @@ footer section:last-child a {
 
 
 /* MEDIA QUERY (medium) */
+
+
+
 /* MEDIA QUERY (large) */
 /* MEDIA QUERY (xl) */
