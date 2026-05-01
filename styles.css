@@ -69,6 +69,16 @@ table {
 }
 
 /* GLOBAL STYLES (mobile first/small) */
+body {
+    font-family: var(--main-font);
+    background-color: var(--soft-white);
+    color: var(--dark-charcoal);
+    width: 450px;
+    margin: 0 auto;
+    padding: 1.5rem 1rem;
+    line-height: 1.5;
+}
+
 
 
 
